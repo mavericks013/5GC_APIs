@@ -134,7 +134,7 @@ The links below will open the Swagger Editor (v3.6.23) and auto-load the OpenAPI
 * [Analytics Info](https://jdegre.github.io/loader.html?yaml=TS29520_Nnwdaf_AnalyticsInfo.yaml)
 * [Data Management](https://jdegre.github.io/loader.html?yaml=TS29520_Nnwdaf_DataManagement.yaml)
 * [ML Model Provision](https://jdegre.github.io/loader.html?yaml=TS29520_Nnwdaf_MLModelProvision.yaml)
-* [ML Model Training](https://github.com/mavericks013/5GC_APIs/blob/Rel-18/TS29520_Nnwdaf_MLModelTraining.yaml)
+* [ML Model Training](https://mavericks013.github.io/loader.html?yaml=TS29520_Nnwdaf_MLModelTraining.yaml)
 
 ## UPF (User-Plane Function)
 * [Event Exposure](https://jdegre.github.io/loader.html?yaml=TS29564_Nupf_EventExposure.yaml)
